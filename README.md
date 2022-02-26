@@ -7,3 +7,5 @@ of RAM and Windows 10.
 
 ## Publication
 T. Theethum, A. Arpornrat and S. Vittayakorn, "Thinkercise: An educational VR game for Python programming," 2021 18th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON), 2021, pp. 439-442, doi: 10.1109/ECTI-CON51831.2021.9454730.
+
+https://ieeexplore.ieee.org/document/9454730?fbclid=IwAR37qkdS0LisEBoux0J79sUVbbckn4ZQGAB6oIhBthjQFNObOkhQhHqC2H8
